@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodecLibrary", "CodecLibrary\CodecLibrary.csproj", "{D3F472A2-A77D-4D6C-BFAD-54E5DFCB577B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodecTests", "CodecTests\CodecTests.csproj", "{BE24BFE0-DAF8-4622-AC39-44DB8CE39B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F472A2-A77D-4D6C-BFAD-54E5DFCB577B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F472A2-A77D-4D6C-BFAD-54E5DFCB577B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F472A2-A77D-4D6C-BFAD-54E5DFCB577B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F472A2-A77D-4D6C-BFAD-54E5DFCB577B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE24BFE0-DAF8-4622-AC39-44DB8CE39B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE24BFE0-DAF8-4622-AC39-44DB8CE39B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE24BFE0-DAF8-4622-AC39-44DB8CE39B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE24BFE0-DAF8-4622-AC39-44DB8CE39B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72FF771-04AC-4A91-9D2E-19A9CF4C5D95}
+	EndGlobalSection
+EndGlobal
